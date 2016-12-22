@@ -5,4 +5,5 @@
 * [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 * [重新认识AndroidStudio和Gradle,这些都是你应该知道的](https://zhuanlan.zhihu.com/p/22990436)
 * [一个两年Android开发者的建议](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
+* [ 一些你需要知道的布局优化技巧](http://blog.csdn.net/qq_17766199/article/details/52863741)
 * title[](link)
